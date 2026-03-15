@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @De-Young07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Quadri Adebisi
+- 👀 I’m interested in Data Science, Machine Learning Operations, Deep learning and AI Applications
+- 🌱 I’m grow my skills every single day - Just so you know
+- 💞️ I’m looking to collaborate on projects spanning the Agriculture, Health and the Finance sector
 - 📫 How to reach me ...09152245475/quadriadebisi084@gmail.com
-
-<!---
-De-Young07/De-Young07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
